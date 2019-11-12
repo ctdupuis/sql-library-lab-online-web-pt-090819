@@ -1,0 +1,1 @@
+ALTER TABLE characters SET species = "Martian"
